@@ -1,0 +1,36 @@
+---
+output: github_document
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  collapse = TRUE,
+  comment = "#>",
+  fig.path = "man/figures/README-",
+  out.width = "100%"
+)
+```
+
+# metaprep
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+The goal of metaprep is to ...
+
+## Installation
+
+You can install the released version of metaprep with:
+
+``` r
+remotes::install_github('TheTS/metaprep')
+```
+
+## Example
+
+```{r example}
+library(metaprep)
+
+# TODO
+```
+
